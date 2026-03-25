@@ -3,7 +3,7 @@
 A production-quality Android application that transforms user photos into stunning AI-generated clipart artwork. Built with React Native (Expo) and a custom Node.js/Express backend hitting the Replicate API.
 
 ## 🔗 Submission Links
-* **[📱 APK Download (Google Drive)](#)** *(Add your Google Drive link here)*
+* **[📱 APK Download (Google Drive)](#)** https://drive.google.com/file/d/1-su_X56D4SPlGKyYzMsydxOkw8rWFkdY/view?usp=sharing
 * **[🎥 Screen Recording](#)** *(Add your screen recording link here)*
 
 ---
