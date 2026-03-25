@@ -4,7 +4,7 @@ A production-quality Android application that transforms user photos into stunni
 
 ## 🔗 Submission Links
 * **[📱 APK Download (Google Drive)](#)** https://drive.google.com/file/d/1-su_X56D4SPlGKyYzMsydxOkw8rWFkdY/view?usp=sharing
-* **[🎥 Screen Recording](#)** *(Add your screen recording link here)*
+* **[🎥 Screen Recording](#)** https://drive.google.com/file/d/19Qltb7JSzWMzhy9PoD4MQQq1zMfLPV91/view?usp=sharing
 
 ---
 
